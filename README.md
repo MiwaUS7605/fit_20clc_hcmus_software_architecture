@@ -1,1 +1,1 @@
-# fit_20clc_hcmus_software_architerture
+# fit_20clc_hcmus_software_architecture

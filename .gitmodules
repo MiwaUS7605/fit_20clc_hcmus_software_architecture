@@ -1,3 +1,6 @@
 [submodule "call_center_web"]
 	path = call_center_web
 	url = https://github.com/MiwaUS7605/call_center_web.git
+[submodule "call_center_manager_app"]
+	path = call_center_manager_app
+	url = https://github.com/LHKN/call_center_manager_app.git

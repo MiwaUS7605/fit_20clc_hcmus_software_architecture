@@ -4,3 +4,6 @@
 [submodule "call_center_manager_app"]
 	path = call_center_manager_app
 	url = https://github.com/LHKN/call_center_manager_app.git
+[submodule "call_center_microservices"]
+	path = call_center_microservices
+	url = https://github.com/PHoaiLe/call_center_microservices.git

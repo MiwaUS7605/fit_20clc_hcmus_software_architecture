@@ -7,3 +7,6 @@
 [submodule "call_center_microservices"]
 	path = call_center_microservices
 	url = https://github.com/PHoaiLe/call_center_microservices.git
+[submodule "QuickPick"]
+	path = QuickPick
+	url = https://github.com/ThaoLang/QuickPick.git
